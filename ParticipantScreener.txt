@@ -1,0 +1,175 @@
+﻿Docker User Research Participant Screener
+
+
+Introduction
+
+
+Thank you for your support to Docker. We are the Docker User Experience(UX) team. In order to improve user experience of our products, we are conducting a variety of feedback sessions. It will be a unique opportunity for you to influence designs and future direction of our products.
+
+
+If you are interested in sharing your opinions about Docker products, please fill out the following questionnaire. It will take about 5 minutes of your time. By responding to the following survey, you opt in to participate in future feedback opportunities, such as in-person or remote feedback sessions, online surveys, etc. Then, we will contact you to schedule for a specific feedback session that match your preference.
+
+
+  We will use your personal information carefully and will not share it with anybody outside of our company.   <HYPERLINK  to Privacy Policy>  
+
+
+Once again, thank you for your continuing support to Docker. We are looking forward to hearing from you.
+
+
+The Docker UX Team
+
+
+[BACKGROUND]
+What is your primary role in your workgroup? Please choose one most applicable to you.
+* Developer or Development Manager 
+* SysAdmin or Ops Engineer or Site Reliability Engineer
+* DevOps or Build/Release Engineer 
+* Product Manager or Technologist
+* Application or Infrastructure Architect 
+* Technical or Line of Business Executive
+* Line of Business application owner # is it necessary?
+* Other (Please specify)
+
+
+What is your role and brief descriptions of what you do in your workgroup?
+
+
+How long have you been working in your current role/industry?
+* Less than 2 years
+* 2 - 5 years
+* 5 - 10 years
+* 10+ years
+ 
+How big is the team you currently work on including you?
+* 1 (myself) 
+* 2 - 3 or 2 - 5
+* 5 - 10
+* More than 10
+
+
+[Using Docker/Experience with Docker products]
+
+
+How do you engage with Docker today? Please select all that apply. # Not applicable???
+* I use Docker
+* I influence whether or not my organization uses Docker
+* I am the ultimate decision-maker about whether to use Docker
+* I am interested in using Docker, but haven’t started yet.
+* Other (Please specify)
+
+
+How long have you been using Docker?
+* Never used
+* 1 - 3 months
+* 4 - 6 months
+* 7 - 12 months
+* 1 - 2 years
+* 2+ years
+
+
+How often do you use Docker products?
+* Several times a day/Every day
+* A few times a week
+* A few times a month
+* Less than monthly
+* Never used
+
+
+Which Docker products are you using? [List of products] Need to review due to Docker for Mac/Windows release
+* Docker Engine
+* Docker Compose
+* Docker Hub
+* Docker Machine
+* Docker Registry
+* Docker Toolbox
+* Docker Swarm
+* Docker Trusted Registry
+* Tutum by Docker
+* Docker Universal Control Plane
+
+
+What isyour experience level with Docker? Need edit
+* I have heard about Docker, but never used it. am familiar with Docker, but not currently using.
+* I just started using Docker, and am ramping up.
+* I am using Docker and running a few containers. 
+* I am a Docker expert, and am running Docker in production.
+
+
+What is the use of Docker at your organization? Please select all that apply.
+* Running Docker in development
+* Running Docker in production
+* Running Docker in test/QA
+* Investigating with plans to adopt
+* Exploring without plans to adopt
+* Never heard of Docker
+
+
+Besides Docker, what container orchestration and management tools are you currently using/evaluating? Need review by PM, alphabetical order
+* Google Kubernetes
+* Amazon ECS
+* Custom built tool
+* Apache Mesos
+* Rancher
+* Openshift
+* Mesosphere DCOS
+* CloudFoundry
+* None of the above
+
+
+
+
+[Preference of study participation]
+Please choose types of feedback sessions you are interested in participating. Please select all that apply. 
+Note: This survey is for you to opt in to participate in our user panel. In the future, those of you who match the profile we are seeking for specific feedback session will be contacted via email. People who participate in a feedback session will receive a gift certificate as a token of appreciation. 
+
+
+We typically provide gift cards to thank you for your time and participation.
+* In-person meeting at Docker’s San Francisco office
+* Have us visit the place of your work
+* Talk over video conference
+* Online surveys
+
+
+
+
+[Personal Information]
+Please fill out the following.
+* Name
+* Email
+* Company Name
+* City, State
+What is your company size?
+* Independent/Self-employed
+* Less than 100 employees
+* 100 - 999 employees
+* 1,000 - 4,999 employees
+* 5,000 + employees
+
+
+What industry does your company belong to?
+* Consumer Products
+* Education
+* Energy & Utilities
+* Financial Services
+* Government
+* Healthcare
+* Manufacturing
+* Materials ???
+* Non Profit
+* Professional Services
+* Retail
+* Technology - Hardware
+* Technology - Software
+* Telecommunications
+* Transportation
+* Others (Please specify)
+
+
+Country
+* <pull down menu>
+Time zone of your work location
+
+
+
+
+Anything else you would like us to know?
